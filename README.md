@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ 一部のリポジトリは権利関係上非公開ですが、GitHubのPrivate Contributionを有効化しており、プライベートリポジトリでの活動も確認いただけます。
+
 ![ ](https://github.com/images/mona-whisper.gif)
 
 <!--
